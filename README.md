@@ -309,12 +309,10 @@ group_by_tag:
 ```
 
 ```
----snippet---
  "web-development": {
    hosts: [ 'node01-dev.domain.tld', 'node02-dev.domain.tld' ]
  }
  "web-production": {
    hosts: [ 'node01-production.domain.tld', 'node02-production.domain.tld' ]
  }
----snippet---
 ```
